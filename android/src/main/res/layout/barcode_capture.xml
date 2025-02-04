@@ -17,7 +17,7 @@
             android:id="@+id/graphicOverlay"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#440000C0" />
+            android:background="#000000" />
 
     </com.amolg.flutterbarcodescanner.camera.CameraSourcePreview>
 
